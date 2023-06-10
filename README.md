@@ -35,7 +35,7 @@ Standard contribution
 
 ## Tests
 
-[Video]("https://drive.google.com/file/d/1dzF9qkJNWAzI_mAxtVHLNnTFgmqEulS_/view?usp=sharing")
+[Video](https://drive.google.com/file/d/1dzF9qkJNWAzI_mAxtVHLNnTFgmqEulS_/view?usp=sharing)
 
 ## Contact Info
 
