@@ -17,8 +17,13 @@ The e-commerce backend app built with Express.js and Sequelize enables seamless 
 npm i, npm i mysql2, npm i dotenv, npm i sequelize, npm i express
 
 ## Usage
-
 run "mysql -u yourusername -p yourpassword",
+
+run "source ./db/schema.sql",
+
+run "npm run seed",
+
+run "npm start"
 
 ## License
 
@@ -26,11 +31,11 @@ This project is licensed under the MIT license. For more information, see the [L
 
 ## Contributing
 
-run "npm start"Contribution standard
+Standard contribution
 
 ## Tests
 
-undefined
+[Video]("https://drive.google.com/file/d/1dzF9qkJNWAzI_mAxtVHLNnTFgmqEulS_/view?usp=sharing")
 
 ## Contact Info
 
